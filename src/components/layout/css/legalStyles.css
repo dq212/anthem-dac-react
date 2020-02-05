@@ -1,0 +1,30 @@
+
+
+/* LEGAL */
+
+#footer-legal {
+    background:#fff;
+    margin:0.75rem 0.5rem 2rem 0.5rem;
+  }
+  
+  .legal {
+    padding:1rem 0.25rem;
+    font-size:0.8rem;
+    text-align: left;
+    color:#646464;
+  }
+  
+  #footer-legal p {
+    padding:1rem 0.5rem;
+    font-size:0.8rem;
+    text-align: left;
+    color:#646464;
+  }
+
+  .bolded {
+    font-weight: 700;
+  }
+  
+  .small-footer-copy {
+    font-size: 0.8rem;
+  }

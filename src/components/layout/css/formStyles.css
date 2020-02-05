@@ -1,0 +1,182 @@
+/* FORM  */
+
+#form-holder h2 {
+    color:#005cb9;
+    font-size:1.8rem;
+    font-weight: 700;
+    line-height: 2.4rem;
+    margin:1rem 1rem 0.5rem 1rem;
+  }
+  
+  form {
+    text-align: left;
+    margin:1rem;
+  }
+  
+  #contact-form h6 {
+    text-align: left;
+    display:block;
+    padding:0 0.5rem;
+     margin:0.5rem 0;
+    font-weight: 400;
+  }
+  
+  #contact-form h6:nth-child(2) {
+    text-align: left;
+    display:block;
+    font-weight: 400;
+  }
+  
+  .form-control {
+    width:70%;
+    display: inline-block;
+    border: #222 solid 1px;
+    border-radius: 4px;
+  }
+  
+  .state-form-control {
+    width:40%;
+    display: inline-block;
+    border: #222 solid 1px;
+    border-radius: 4px;
+  }
+  
+  select {
+    width:25%;
+    border:1px #222 solid 1px;
+    border-radius: 4px;
+  }
+  
+  input[type="text"] {
+    background: #fff;
+    text-align: left;
+    padding:0.5rem;
+    margin-left:0.5rem;
+  }
+  
+  input[type="email"], input[type="phone"] {
+    background: #fff;
+    text-align: left;
+    padding:0.5rem;
+    margin-left:0.5rem;
+  }
+  
+  select {
+    padding:0.5rem;
+    margin-left:0.5rem;
+  }
+  
+  label {
+    display:block;
+    margin:1rem 0.5rem 0.5rem 0.5rem;
+  }
+  
+  input[type="checkbox"] {
+    width:20px;
+    margin-left:0 !important;
+    display:inline-block;
+    margin:1rem 0rem 0.5rem 0.5rem;
+  }
+  
+  #checkbox-holder {
+    display:block;
+    margin:0.5rem;
+  }
+  
+   .agree-terms {
+     width:90%;
+     font-size:0.8rem;
+     vertical-align:3px;
+    /* background:#ff1199; */
+    /* display:inline-block; */
+  }
+
+
+  .form-grid {
+    display:-ms-grid;
+    display:grid;
+    -ms-grid-columns: (1fr)[12];
+    grid-template-columns: repeat(12, 1fr);
+    -ms-grid-rows: (0.5fr)[8];
+    grid-template-rows: repeat(8, 0.5fr);
+  
+  }
+
+  #requiredField {
+    grid-row:1;
+    grid-column:3/9;
+  }
+
+
+  #firstName {
+    grid-row:2;
+    grid-column:3/9;
+  }
+
+  #lastName {
+    grid-row:2;
+    grid-column:8/12;
+  }
+
+  #phoneNumber{
+    grid-row:3;
+    grid-column:3/9;
+  }
+
+  #emailAddress {
+    grid-row:3;
+    grid-column:8/11;
+  }
+
+  #streetAddress{
+    grid-row:4;
+    grid-column:3/9;
+  }
+
+  #emailAddress {
+    grid-row:3;
+    grid-column:8/12;
+  }
+
+  #city {
+    grid-row:5;
+    grid-column:3/9;
+  }
+
+  #state {
+    grid-row:5;
+    grid-column:8/10;
+  }
+
+  #zip {
+    grid-row:5;
+    grid-column:9/113;
+  }
+
+  #checkbox-holder {
+    grid-row:6;
+    grid-column:3/10;
+  }
+
+  #btn-submit {
+    grid-row:7;
+    grid-column: 6/8;
+    align-self: center;
+    justify-self: center;
+  }
+
+  #btn-submit {
+    border: solid 2px #7c1848;
+    color:#fff;
+    background:#a5346f;
+    height:auto;
+    padding:0.4rem 2rem;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    display:block;
+    margin:1rem auto 0 auto;
+  }
+
+  .ty-h1, .ty-h2 {
+    color:#005cb9;
+   }

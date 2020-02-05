@@ -1,0 +1,83 @@
+.footer-grid {
+    display:-ms-grid;
+    display:grid;
+    -ms-grid-columns: 50% 10% 40%;
+    grid-template-columns: 50% 10% 40%;
+  }
+
+#logo-footer {
+    background:#005cb9;
+    padding:0 0 2rem 0;
+  }
+
+  .logo-footer {
+    display: block;
+    padding:1rem 0 0.5rem 0.5rem;
+    width:20%;
+    min-width:100px;
+  }
+  
+  .small-footer-copy {
+    font-size: 0.8rem;
+  }
+  
+  
+#phone-holder-footer {
+    display:inline-block;
+    color:#fff;
+    text-align: right;
+    padding:0.5rem;
+    /* line-height: 1.5rem; */
+    -ms-grid-column: 3;
+    -ms-grid-column-span: 1;
+    grid-column: 3/4;
+  }
+  
+  #phone-holder-footer p {
+    font-size:0.8rem;
+    padding:0.25rem;
+    color:#fff;
+    line-height: 1.2rem;
+  }
+  
+  .phone-footer {
+    color:#fff;
+    font-size:0.9rem;
+    font-weight: 600;
+  }
+  
+  a.phone-link-footer{
+    text-decoration: none;
+  }
+  
+  /* unvisited link */
+  a.phone-link-footer:link {
+    cursor: pointer;
+    color: #fff;
+  }
+  
+  /* visited link */
+  a.phone-link-footer:visited {
+    color:#fff;
+  }
+  
+  /* mouse over link */
+  a.phone-link-footer:hover {
+    color: #7c1848;
+  }
+  
+  /* selected link */
+  a.phone-link-footer:active {
+    color: #fff;
+  }
+  
+
+  @media (min-width: 481px) and (max-width: 767px) {
+  
+    .logo-footer {
+      display: block;
+      padding:1rem 0 0.5rem 0.5rem;
+      max-width:100px;
+    }
+    
+  }
