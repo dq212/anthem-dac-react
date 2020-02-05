@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/anthem-dac-react/static/css/main.9f12531e.chunk.css",
+    "main.js": "/anthem-dac-react/static/js/main.9908898a.chunk.js",
+    "main.js.map": "/anthem-dac-react/static/js/main.9908898a.chunk.js.map",
+    "runtime-main.js": "/anthem-dac-react/static/js/runtime-main.f13308cc.js",
+    "runtime-main.js.map": "/anthem-dac-react/static/js/runtime-main.f13308cc.js.map",
+    "static/js/2.08991b0f.chunk.js": "/anthem-dac-react/static/js/2.08991b0f.chunk.js",
+    "static/js/2.08991b0f.chunk.js.map": "/anthem-dac-react/static/js/2.08991b0f.chunk.js.map",
+    "index.html": "/anthem-dac-react/index.html",
+    "precache-manifest.106a40da4a707cd0779efc46210b32e9.js": "/anthem-dac-react/precache-manifest.106a40da4a707cd0779efc46210b32e9.js",
+    "service-worker.js": "/anthem-dac-react/service-worker.js",
+    "static/css/main.9f12531e.chunk.css.map": "/anthem-dac-react/static/css/main.9f12531e.chunk.css.map",
+    "static/js/2.08991b0f.chunk.js.LICENSE.txt": "/anthem-dac-react/static/js/2.08991b0f.chunk.js.LICENSE.txt",
+    "static/media/icon-accident.svg": "/anthem-dac-react/static/media/icon-accident.cbf3f65c.svg",
+    "static/media/icon-health-wellness.svg": "/anthem-dac-react/static/media/icon-health-wellness.d4bdc0f4.svg",
+    "static/media/icon-indemity.svg": "/anthem-dac-react/static/media/icon-indemity.9feeaa3f.svg",
+    "static/media/icon-shortTerm-medical.svg": "/anthem-dac-react/static/media/icon-shortTerm-medical.a506f1b8.svg",
+    "static/media/logo-DAC-white.svg": "/anthem-dac-react/static/media/logo-DAC-white.4c31f1f0.svg",
+    "static/media/logo-DAC.svg": "/anthem-dac-react/static/media/logo-DAC.f005cabc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f13308cc.js",
+    "static/js/2.08991b0f.chunk.js",
+    "static/css/main.9f12531e.chunk.css",
+    "static/js/main.9908898a.chunk.js"
+  ]
+}
